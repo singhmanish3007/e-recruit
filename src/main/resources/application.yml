@@ -1,0 +1,5 @@
+server:
+  servlet:
+    context-path: /e-recruit/v1
+  port: 1010
+    
